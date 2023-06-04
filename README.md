@@ -19,8 +19,8 @@
 <li>회원의 등급 관리</li>
 
 # 사용 기술
-💻 skills : JAVA, Spring FrameWork, mysql, Mybatis, JSP, HTML, CSS, JavaScript, JSTL, EL, AJAX
-🛠️ tools : Eclipse, DBeaver, ApacheTomcat
+<li>💻 skills : JAVA, Spring FrameWork, mysql, Mybatis, JSP, HTML, CSS, JavaScript, JSTL, EL, AJAX</li>
+<li>🛠️ tools : Eclipse, DBeaver, ApacheTomcat</li>
 
 # 🥳 담당 기능
 <li>selenium을 이용한 상품 Crawling</li>
