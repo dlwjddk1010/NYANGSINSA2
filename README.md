@@ -30,3 +30,6 @@
 <li>좋아요 기능</li>
 <li>댓글/대댓글 기능</li>
 <li>장바구니 삭제 기능</li>
+
+# 시연 영상
+<a href = "https://clipchamp.com/watch/pjLzTA74fmD">영상 보러 가기</
