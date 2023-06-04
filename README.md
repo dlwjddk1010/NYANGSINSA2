@@ -1,6 +1,6 @@
 # NYANGSINSA2
 냥신사 : 대한민국 NO.1 고양이 용품 쇼핑몰 &amp; 커뮤니티 (ver.2)
-# <h2>프로젝트 개요</h2>
+# 프로젝트 개요
 <h3>고객의 니즈를 반영한 웹 어플리케이션</h3>
 <li>커뮤니티 기능을 도입하여 이용자 증가 기대</li>
 <li>웹 표준 준수, 웹 접근성 강화</li>
@@ -21,3 +21,12 @@
 # 사용 기술
 💻 skills : JAVA, Spring FrameWork, mysql, Mybatis, JSP, HTML, CSS, JavaScript, JSTL, EL, AJAX
 🛠️ tools : Eclipse, DBeaver, ApacheTomcat
+
+# 🥳 담당 기능
+<li>selenium을 이용한 상품 Crawling</li>
+<li>JSTL / EL / 커스텀 태그 생성 및 구현</li>
+<li>AJAX 생성 및 구현</li>
+<li>다국어 처리</li>
+<li>좋아요 기능</li>
+<li>댓글/대댓글 기능</li>
+<li>장바구니 삭제 기능</li>
