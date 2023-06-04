@@ -9,7 +9,7 @@
 <li>Open API,플러그인 사용</li>
 <li>RDBMS 활용</li>
 
-# 기능 요약
+# 👏🏻 기능 요약
 <li>소통을 위한 커뮤니티 글 작성 기능</li>
 <li>좋아요, 댓글, 대댓글, 공유하기 기능</li>
 <li>악성 컨텐츠에 대한 신고 기능</li>
@@ -18,9 +18,9 @@
 <li>신고 상태 처리 기능</li>
 <li>회원의 등급 관리</li>
 
-# 사용 기술
-<li>💻 skills : JAVA, Spring FrameWork, mysql, Mybatis, JSP, HTML, CSS, JavaScript, JSTL, EL, AJAX</li>
-<li>🛠️ tools : Eclipse, DBeaver, ApacheTomcat</li>
+# 🛠️ 사용 기술
+<li>skills : JAVA, Spring FrameWork, mysql, Mybatis, JSP, HTML, CSS, JavaScript, JSTL, EL, AJAX</li>
+<li>tools : Eclipse, DBeaver, ApacheTomcat</li>
 
 # 🥳 담당 기능
 <li>selenium을 이용한 상품 Crawling</li>
